@@ -117,7 +117,6 @@ def manage_crop(crop):
 
 
 def main():
-    #instaniate
     new_crop = Crop(1,4,3)
     manage_crop(new_crop)
 
